@@ -1,7 +1,7 @@
 function multiplicar(a, b){
     return a * b;
 }
-// a fun~]ao anônima tem seu nome declarado antes
+// a funçaoanônima tem seu nome declarado antes
 const multiplicarAnonima = function (a, b){
     return a * b;
 }

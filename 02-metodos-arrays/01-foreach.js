@@ -1,1 +1,8 @@
-const frutas = ["Maça", ]
+const frutas = ["Maça", "Banana", "Uva"];
+frutas.forEach(function(fruta) {
+    console.log(fruta);
+});
+
+frutas.forEach((fruta) => {
+    console.log(fruta);
+});
